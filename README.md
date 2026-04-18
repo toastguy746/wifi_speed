@@ -25,4 +25,4 @@
 - **윈도우 전용:** 본 프로그램은 Windows 환경의 `netsh` 명령어를 기반으로 제작되었습니다.
 
 ---
-** Developed by toastguy746 & gemimni **
+**Developed by toastguy746 & gemimni**
